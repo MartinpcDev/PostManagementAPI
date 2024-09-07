@@ -1,6 +1,6 @@
 # Post Management
 
-link: https://github.com/MartinpcDev/PostManagementAPI
+https://roadmap.sh/projects/blogging-platform-api
 
 ## Indicaciones
 
